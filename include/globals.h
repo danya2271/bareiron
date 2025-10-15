@@ -32,7 +32,7 @@
 #define GAMEMODE 0
 
 // Max render distance, determines how many chunks to send
-#define VIEW_DISTANCE 32
+#define VIEW_DISTANCE 6
 
 // Time between server ticks in microseconds (default = 1s)
 #define TIME_BETWEEN_TICKS 50000
